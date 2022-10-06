@@ -1,0 +1,702 @@
+@media(min-width:1200px) and (max-width:1399.98px){
+    .tab_section .nav-item .nav-link {
+        padding: 44px 35px;
+    }
+    .five_design i {
+        font-size: 14;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .mega_menu{
+        width:960px;
+    }
+    .banner_content{
+        text-align:left;
+    }
+    .hot_product_caption #countdown ul .counter_num{
+        width:27px;
+        height:27px;
+        line-height: 27px;
+        margin:0 1px;
+        font-size: 12px;
+    }
+    .hot_product_caption #countdown ul .conuter_name{
+        padding:0 3px;
+    }
+    .product_img img {
+        max-width: 67px;
+        max-height: 100px;
+    }
+    .gedget_icon .love_icon {
+        width: 20%;
+        padding-left:0;
+        width:20%
+    }
+    .gedget_icon .tara_icon {
+        width: 80%;
+    }
+    .product_icon .heart_icon {
+        padding-left:0;
+        width: 20%;
+    }
+    .product_icon .star_icon {
+        width: 90%;
+    }
+    .top_cat_product {
+        border:0;
+    }
+    .hot_sale_left {
+        flex-wrap: wrap;
+    }
+    .top_button a {
+        right: -1%;
+    }
+    .gedget_caption a {
+	padding: 12px 33px;
+}
+.tab_section .nav-item .nav-link {
+	padding: 48px 20px;
+}
+.tab_section .nav-item .nav-link::after {
+	top: 27px;
+}
+.category_inner_content span {
+	font-size: 16px;
+}
+.category_inner_content h3 {
+	font-size: 16px;
+}
+.bor_two {
+	border: 1px solid #ddd !important;
+}
+.arrow_left_design {
+    opacity: 0;
+}
+.arrow_right_design {
+    opacity: 0;
+}
+.shop_table_design ul li a {
+	margin: 10px 3px;
+}
+.five_design i {
+	font-size: 12px;
+}
+
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+    #header_menu{
+        padding:20px 0;
+    }
+    .banner_content h2{
+        font-size: 25px;
+    }
+    .banner_content h3{
+        font-size:22px;
+    }
+    .banner_content{
+        text-align:center;
+    }
+    .banner_content button{
+        display: block;
+        margin-left: 150px;
+    }
+    .banner_content button.active{
+        margin-left: 170px;
+        margin-top:10px;
+    }
+    #top_cat .cat_tab_menu h2 {
+        font-size: 17px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    .product_icon .star_icon {
+        font-size: 13px;
+    }
+    .product_icon .heart_icon {
+        font-size: 14px;
+    }
+    .product_caption h3 {
+        font-size: 14px;
+    }
+    .product_caption p {
+        font-size: 14px;
+    }
+    .product_img img {
+        max-width: 90px;
+    }
+    .category_listed_product h2 {
+        font-size: 14px;
+    }
+    .hot_product_caption strike {
+        font-size: 16px;
+    }
+    .hot_product_caption p {
+        font-size: 16px;
+    }
+    .hot_sale_left_content h3 {
+        font-size: 18px;
+    }
+    .hot_sale_left_content h4 {
+        font-size: 18px;
+    }
+    .gadged_life h3 {
+        text-align: left;
+        font-size: 23px;
+    }
+    .gadget_button a {
+        font-size: 14px;
+        padding: 14px 32px;
+    }
+    .gadget_button {
+        text-align: left;
+        padding: 0;
+        padding-bottom: 39px;
+    }
+    .gedget_img img {
+        max-width: 250px;
+        height: 200px;
+        margin-left: 24px;
+    }
+    .gedget_product {
+        display: inline-block;
+        padding: 25px 30px;
+    }
+    .gedget_img img {
+        max-width: 250px;
+        height: 200px;
+    }
+    .gedget_icon .tara_icon {
+        font-size: 14px;
+        width:80%;
+    }
+    .gedget_icon .love_icon {
+        font-size: 14px;
+        width:20%;
+    }
+    .gedget_icon {
+        flex-wrap: wrap;
+        padding-top: 40px;
+    }
+    .gedget_caption strike {
+        font-size: 16px;
+    }
+    .gedget_caption p {
+        font-size: 16px;
+    }
+    .gedget_caption a {
+        font-size: 14px;
+        padding: 10px 49px;
+    }
+      /* inner part responsive start here */
+    /* about part start here */
+    .number_manage {
+        margin-bottom: 30px;
+    }
+    .history_img img {
+        margin-left: 18%;
+    }
+    .history_left h2 {
+        font-size: 37px;
+    }
+    .vision_img img {
+        margin-left: 15%;
+    }
+    .history_left h3 {
+        padding-top: 30px;
+    }
+    .tab_section .nav-item .nav-link {
+        padding: 80px 116px;
+    }
+    .category_inner {
+        margin-bottom: 45px;
+    }
+    .arrow_right_design {
+        left: 658px;
+    }
+    .arrow_left_design {
+        left: 623px;
+    }
+    .feature_design {
+        margin-bottom: 80px;
+    }
+    .arrow_left_design {
+        opacity: 0;
+    }
+    .arrow_right_design {
+        opacity: 0;
+    }
+    .tab_section .nav-item .nav-link::after {
+        top: 55px;;
+    }
+    .shop_table_design ul li a {
+        margin: 7px 8px;
+    }
+    .progress_design .islam_ee {
+        width: 555px;
+    }
+    .meta_design {
+        width: 90%;
+    }
+        
+}
+
+
+@media(min-width:576px) and (max-width:767.98px){
+    .banner_content h2{
+        font-size: 28px;
+        padding-right: 98px;
+    }
+    .banner_content button{
+        display: block;
+        margin-left: 100px;
+    }
+    .banner_content button.active{
+        margin-left: 116px;
+        margin-top:5px;
+    }
+    #header_menu{
+        padding:20px 0;
+    }
+    .banner_item img {
+        width:150%;
+        height:400px;
+    }
+    .banner_content h3 {
+    padding-right: 75px;
+        
+    }
+    #top_cat .cat_tab_menu h2 {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .product_img img {
+        max-width: 52px;
+    }
+    .top_cat_product {
+        border-right:0;
+    }
+    .product_icon .star_icon {
+        font-size: 12px;
+    }
+    .product_caption h3 {
+        font-size: 14px;
+    }
+    .product_caption strike {
+        font-size: 14px;
+    }
+    .product_caption p {
+        font-size: 14px;
+    }
+    .product_icon .heart_icon {
+        font-size: 14px;
+    }
+    .product_caption {
+        padding-left: 35px;
+    }
+    .cat_tab_menu ul {
+        justify-content: center;
+    }
+    .cat_tab_menu h2 {
+        text-align: center;
+    }
+    .hot_product_img {
+        max-width: 59%;
+        height: auto;
+        margin-left: 95px;
+    }
+    .hot_product_caption p {
+        font-size: 15px;
+    }
+    .hot_product_caption strike {
+        font-size: 15px;
+    }
+    .hot_product_caption h3 {
+        font-size: 13px;
+    }
+    .hot_product_available {
+        font-size: 13px;
+    }
+    /* .hot_product_caption #countdown ul .counter_num {
+        margin: 0px 37px;
+    } */
+    .hot_product_caption h4 {
+        font-size: 14px;
+    }
+    .hot_product_img .round {
+        right: -107px;
+    }
+    .three {
+        background-repeat: no-repeat;
+    }
+    .best_category_product{
+        width:80px;
+    }
+    .category_listed_img img {
+        width: 30%;
+    }
+    .category_listed_product h2 {
+        font-size: 13px;
+    }
+    .category_listed_product span {
+        font-size: 14px;
+    }
+    .best_category_br {
+        border: 0;
+    }
+    .gadget_button {
+        text-align: left;
+        padding:0;
+    }
+    .gadged_life h3 {
+        font-size: 22px;
+        padding: 22px 0;
+    }
+    .gadget_button a {
+        font-size: 13px;
+        padding: 9px 27px;
+    }
+    .gedget_icon {
+        justify-content: space-between;
+    }
+    .gedget_icon .tara_icon {
+        padding-top: 40px;
+        display:flex;
+        font-size: 13px;
+    }
+    .gedget_icon .love_icon {
+        padding-top: 40px;
+        padding-left:0;
+        font-size: 14px;
+    }
+    .gedget_caption h3 {
+        font-size: 13px;
+    }
+    .gedget_caption p {
+        font-size: 13px;
+    }
+    .gedget_caption strike {
+        font-size: 14px;
+    }
+    .gedget_caption a {
+        font-size: 14px;
+        padding: 8px 30px;
+    }
+    .gedget_caption {
+        padding-left: 85px;
+    }
+    .gedget_img img {
+        margin-top: 30px;
+        margin-top: 30px;
+    }
+    .logo_inner_marketo {
+        margin-bottom: 60px;
+    }
+    .gedget_img img {
+        max-width: 240px;
+        height: 200px;
+        margin-left: 20px;
+    }
+       /* inner part responsive start here */
+    /* about part start here */
+    .number_manage {
+        margin-top: 55px;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+    .about_search_box .input-group {
+        margin-top: 20px;
+    }
+    /* product category part */
+    .tab_section .nav-item .nav-link {
+        padding: 60px 71px;
+    }
+    .category_inner {
+        margin-bottom: 50px;
+    }
+    .slick_content span {
+        margin-bottom: 40px;
+    }
+    .arrow_right_design {
+        left: 490px;
+    }
+    .arrow_left_design {
+        left: 457px;
+    }
+    .shop_table_design ul li a {
+        margin: 5px -2px;
+    }
+    .progress_design .islam_ee {
+        width: 380px;
+    }
+    .meta_design {
+        width: 90%;
+    }
+}
+
+
+
+
+@media(max-width:767.98px){
+  
+    .cat_tab_menu{
+        flex-wrap:wrap;
+    }
+    .cat_tab_menu h2{
+        width:100%;
+    }
+    .cat_tab_menu ul{
+        width:100%;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .watch_img a{
+        margin:10px 0;
+    }
+    #header_menu{
+        padding:20px 0;
+    }
+    .banner_dots li button{
+        width: 13px;
+        height:13px;
+    }
+}
+    
+
+@media(max-width:575.98px){
+    .banner_content h2{
+        font-size: 16px;
+    }
+    .banner_content h3{
+        font-size:14px;
+        margin-top:20px;
+        margin-left: -40px;
+    }
+    .banner_content button.active{
+        margin-top:5px;
+        margin-left:1px;
+
+    }
+    .banner_dots li button{
+        width:10px;
+        height:10px;
+    }
+    .banner_item img {
+        width:120%;
+        height:300px;
+    }
+    #top_cat .cat_tab_menu h2 {
+        text-align: center;
+        padding-bottom:10px;
+    }
+    .product_img img {
+        max-width: 60px;
+        max-height: 80px;
+        margin-left:25px;
+    }
+    .top_cat_product {
+        border-right: 0;
+    }
+    .product_icon .star_icon {
+        font-size: 12px;
+    }
+    .product_caption h3 {
+        font-size: 13px;
+    }
+    .product_caption strike {
+        font-size: 14px;
+    }
+    .product_caption strike {
+        font-size: 14px;
+    }
+    .hot_sale_left_content a {
+        padding: 10px 14px;
+    }
+    .product_caption {
+        padding-left: 40px;
+        padding-top: 40px;
+    }
+    .hot_sale_left_content p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .hot_sale_left_content h4 {
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .hot_sale_left_content h3 {
+        font-size: 15px;
+    }
+    .hot_product_caption strike {
+        font-size: 16px;
+    }
+    .hot_product_caption p {
+        font-size: 16px;
+    }.hot_product_available {
+        font-size: 13px;
+    }
+    .hot_product_caption h4 {
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .slick-slide img {
+        max-height: 80%;
+    }
+    .category_listed_img {
+        max-width: 40%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .category_listed_product h2 {
+        font-size: 14px;
+    }
+    .hot_product_caption h3 {
+        font-size: 13px;
+    }
+    .category_listed_product span {
+        font-size: 13px;
+    }
+    .gadged_life h3{
+        font-size: 28px;
+    }
+    .gadget_button {
+        text-align: left;
+        padding: 40px 0;
+    }
+    .gadget_button a {
+        font-size: 14px;
+        padding: 12px 26px;
+        margin-top: -55px;
+    }
+    .gedget_product {
+        display: block;
+    }
+    .gedget_product {
+        padding: 20px 24px;
+    }
+    .gedget_icon {
+        justify-content: space-between;
+    }
+    .gedget_icon .tara_icon {
+        padding-top: 40px;
+        display:flex;
+        font-size: 13px;
+    }
+    .gedget_icon .love_icon {
+        padding-top: 40px;
+        padding-left:0;
+        font-size: 14px;
+    }
+    .gedget_caption h3 {
+        font-size: 14px;
+    }
+    .gedget_caption strike {
+        font-size: 14px;
+    }
+    .gedget_caption p {
+        font-size: 15px;
+    }
+    .gedget_caption a {
+       font-size: 13px;
+       padding:9px 44px;
+    }
+    .cat_tab_menu ul {
+        justify-content: center;
+    }
+    .dream_product {
+        padding-left: 20px;
+    }
+    .dream_caption {
+    padding-left: 25px;
+        padding-top: 28px;
+    }
+    .logo_design {
+        padding: 15px 14px;
+    }
+    .logo_inner h2 {
+        text-align: left;
+    }
+    .logo_inner_marketo h2 {
+        text-align: left;
+    }
+    .best_category_br {
+        border: 0;
+    }
+    /* inner part responsive start here */
+    /* about part start here */
+    .number_manage {
+        margin-top: 55px;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+    .history_left h3 {
+        margin-top: 30px;
+    }
+    .heading_part h2 {
+        font-size: 32px;
+    }
+    .search_content h3 {
+        font-size: 24px;
+    }
+    .about_search_box button {
+        width: 34%;
+    }
+    .about_search_box .input-group {
+        margin-top: 20px;
+    }
+    .get_in h2 {
+        text-align: left;
+    }
+    /* product category part start here */
+    .tab_section .nav-item .nav-link {
+        padding: 60px 16px;
+    }
+    .category_inner {
+        margin-bottom: 20px;
+    }
+    .slick_content span {
+        margin-bottom: 50px;
+    }
+    .header_design h2::before {
+        display: none;
+    }
+    .header_design h2::after {
+        display: none;
+    }
+    .arrow_left_design {
+        opacity: 0;
+    }
+    .arrow_right_design {
+        opacity: 0;
+    }
+    .shop_table_design ul li a {
+        margin: 4px 3px;
+    }
+    .exchange_ro{
+        display: block !important;
+    }
+    .meta_design {
+        width: 80%;
+    }
+    .meta_both_design {
+        display: block !important;
+    }
+    .about_search_box {
+        padding: 60px 8px;
+    }
+}
+
+   
+
+
+
+
+
+
+
